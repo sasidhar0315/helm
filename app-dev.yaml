@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/sasidhar0315/helm.git'    # <-- replace with your repo URL
+    repoURL: 'https://github.com/sasidhar0315/helm'    # <-- replace with your repo URL
     targetRevision: HEAD
     path: myapp
     helm:
